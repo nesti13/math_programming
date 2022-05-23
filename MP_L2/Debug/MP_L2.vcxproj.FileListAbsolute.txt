@@ -1,0 +1,5 @@
+C:\Study\МП\MP_L2\Debug\MP_L2.exe
+C:\Users\Admin\Desktop\MP_L2\Debug\MP_L2.exe
+C:\Users\Admin\Desktop\MP_L2\Debug\MP_L2.pdb
+C:\Users\Admin\Desktop\матпрога\MP_L2\Debug\MP_L2.exe
+C:\Users\Admin\Desktop\матпрога\MP_L2\Debug\MP_L2.pdb

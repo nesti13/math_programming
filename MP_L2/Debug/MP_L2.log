@@ -1,0 +1,9 @@
+﻿  Combi1.cpp
+C:\Users\Admin\Desktop\матпрога\MP_L2\Combi1.cpp(33,48): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  Combi2.cpp
+  Combi3.cpp
+  Combi4.cpp
+  MP_L2.cpp
+  MyTask1.cpp
+  Создание кода...
+  MP_L2.vcxproj -> C:\Users\Admin\Desktop\матпрога\MP_L2\Debug\MP_L2.exe
