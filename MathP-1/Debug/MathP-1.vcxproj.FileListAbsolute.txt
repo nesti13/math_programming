@@ -1,0 +1,4 @@
+C:\Users\kolia\source\repos\MathP-1\Debug\MathP-1.exe
+C:\Users\kolia\source\repos\MathP-1\Debug\MathP-1.pdb
+C:\Users\Admin\Desktop\MathP-1\Debug\MathP-1.exe
+C:\Users\Admin\Desktop\MathP-1\Debug\MathP-1.pdb

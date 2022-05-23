@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\MathP-1\x64\Debug\MathP-1.exe
+C:\Users\Admin\Desktop\MathP-1\x64\Debug\MathP-1.pdb
+C:\Users\Admin\Desktop\матпрога\MathP-1\x64\Debug\MathP-1.exe
+C:\Users\Admin\Desktop\матпрога\MathP-1\x64\Debug\MathP-1.pdb
